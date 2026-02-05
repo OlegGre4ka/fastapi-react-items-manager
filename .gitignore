@@ -1,0 +1,12 @@
+# Python environment and cache
+backend/venv/
+backend/__pycache__/
+backend/*.py[cod]
+backend/.idea/
+
+# Node.js modules and build
+frontend/node_modules/
+frontend/dist/
+
+# Local database (we won't push it for now)
+backend/*.db
